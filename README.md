@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 ## Skills
 
 - Programming Languages: C, Java
-- Web Development: HTML, CSS, JavaScript, NextJs
+- Web Development: HTML, CSS, JavaScript, Next.js
 - Databases: Microsoft SQL Server
 - Tools & Technologies: Git, JetBrains, Docker, Canva, Blender
 
