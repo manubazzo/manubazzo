@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 ## Contact Me
 
-- 📧 You can reach me via email at manubaz31@gmail.com
+- 📧 You can reach me via email at manubazzo.js@gmail.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-bazzani-b15a50254/).
 
 ## Skills
