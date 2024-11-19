@@ -4,18 +4,19 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 ## About Me
 
-- 🎓 I'm currently pursuing a degree in Computer Science Engineering at University of Modena.
+- 🎓 I have completed a Bachelor's Degree in Computer Engineering and am currently pursuing a Master's Degree in Computer Engineering, specializing in Cloud and Cybersecurity, at the University of Modena.
 - 🌱 I love learning and constantly exploring new technologies and programming languages.
 
 ## Contact Me
 
 - 📧 You can reach me via email at manubazzo.js@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-bazzani-b15a50254/).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-bazzani-b15a50254/)
+- 📸 Find me on Instagram at [@\_.bazzo.\_](https://www.instagram.com/_.bazzo._/)
 
 ## Skills
 
 - Programming Languages: C, Java, C#, Python
-- Web Development: HTML, CSS, JavaScript, Next.js, Blazor
+- Web Development: HTML, CSS, JavaScript, Typescript, Next.js, Blazor
 - Databases: Microsoft SQL Server
 - Tools & Technologies: Git, JetBrains, Docker, Canva, Blender
 
