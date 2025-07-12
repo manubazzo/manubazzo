@@ -6,6 +6,7 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 - 🎓 I have completed a Bachelor's Degree in Computer Engineering and am currently pursuing a Master's Degree in Computer Engineering, specializing in Cloud and Cybersecurity, at the University of Modena.
 - 🌱 I love learning and constantly exploring new technologies and programming languages.
+- 💼 Junior Developer at the IT company BRAV Srl, part of the Arrive group.
 
 ## Contact Me
 
@@ -15,8 +16,8 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 ## Skills
 
-- Programming Languages: C, C#, Java, Python
-- Web Development: HTML, CSS, JavaScript, Typescript, Next.js, Blazor
+- Programming Languages: C, C#, Java, Python, Typescript
+- Web Development: HTML, CSS, JavaScript, React, Next.js, Blazor
 - Backend: NestJS
 - Databases: Microsoft SQL Server, PostgreSQL
 - Tools & Technologies: Git, JetBrains, Docker, Canva, Blender
