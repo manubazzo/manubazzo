@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 - Programming Languages: C, C#, Java, Python, Typescript
 - Web Development: HTML, CSS, JavaScript, React, Next.js, Blazor
-- Backend: NestJS
+- Backend: NestJS, Express.js
 - Databases: Microsoft SQL Server, PostgreSQL
 - Tools & Technologies: Git, JetBrains, Docker, Canva, Blender
 
