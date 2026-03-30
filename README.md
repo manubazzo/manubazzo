@@ -10,16 +10,16 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 
 ## Contact Me
 
-- 📧 You can reach me via email at manubazzo.js@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-bazzani-b15a50254/)
+- 📧 You can reach me via email at manuelbazzanii@gmail.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-bazzani/)
 - 📸 Find me on Instagram at [@\_.bazzo.\_](https://www.instagram.com/_.bazzo._/)
 
 ## Skills
 
-- Programming Languages: C, C#, Java, Python, Typescript
-- Web Development: HTML, CSS, JavaScript, React, Next.js, Blazor
+- Programming Languages: JavaScript, Typescript, C#, Java, Python, C 
+- Web Development: HTML, CSS, React, Next.js, Blazor
 - Backend: NestJS, Express.js
-- Databases: Microsoft SQL Server, PostgreSQL
+- Databases: Microsoft SQL Server, MySQL, PostgreSQL
 - Tools & Technologies: Git, JetBrains, Docker, Canva, Blender
 
 ## Fun Facts
@@ -27,7 +27,3 @@ Welcome to my GitHub profile! 👋 I'm Manuel Bazzani, a Computer Science Engine
 - 🎶 I'm a music enthusiast and enjoy playing musical instruments (saxophone and guitar) in my free time.
 - 🏞️ I love outdoor activities like playing tennis or beach volley.
 - 🎮 I'm also a casual gamer and enjoy playing video games.
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas.
-
-Happy coding! 🚀
